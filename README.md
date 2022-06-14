@@ -2,7 +2,7 @@
 
 Publication: https://www.nature.com/articles/s41598-021-99998-z
 
-Data: https://drive.google.com/file/d/15XoRfZMgOekrsfuZwRIncVwxB25caa2F/view?usp=sharing
+Data + Resources : https://drive.google.com/drive/folders/1EW3M5aSaEDawBQkgW1JfvIGBcn8aYm60?usp=sharing
 
 The real image data was image. So, the data is converted into a csv of pixel values, in grayscale.
 
